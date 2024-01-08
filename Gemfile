@@ -16,7 +16,7 @@ gem 'aws-sdk-ecr'
 gem 'anycable-rails', '~> 1.2.0'
 
 # Serving requests
-gem 'puma', '~> 4.3'
+gem 'puma', '~> 5.6'
 gem 'rack-cors'
 
 # Helper gems for Rails
